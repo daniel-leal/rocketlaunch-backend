@@ -27,3 +27,7 @@ benchmarks/graphs
 .vscode
 .env
 yarn.lock
+
+# Locks
+yarn.lock
+package-lock.json
